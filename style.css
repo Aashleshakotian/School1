@@ -1,0 +1,17 @@
+
+.navbar-header .collapse data collapse{
+    text-align: center;
+    text-color:pink;
+    }
+#welcome img{
+   border:15px;
+border-color:blueviolet;    
+}
+#welcome h1{
+    text-align:center;
+    text-color:81FF33;
+}
+#welcome h2{
+    text-align: center;
+    text-color:FFE133;
+}
